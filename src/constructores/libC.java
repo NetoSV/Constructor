@@ -7,7 +7,7 @@ package constructores;
 
 /**
  *
- * @author Alumno
+ * @author Ernesto
  */
 public class libC {
 
